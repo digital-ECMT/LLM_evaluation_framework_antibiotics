@@ -1,4 +1,4 @@
-# LLM_evaluation_framework_antibiotics
+# LLM_factuality_evaluation_framework
 
 Repo for Large Language Models, scientific knowledge and factuality: A systematic analysis in antibiotic discovery
 
