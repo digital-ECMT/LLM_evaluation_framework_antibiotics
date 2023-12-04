@@ -5,10 +5,10 @@ Wysocka, Magdalena, et al. "Large Language Models, scientific knowledge and fact
 https://arxiv.org/abs/2305.17819
 
 ## High-level overview of the analysis:
-![alt text](https://github.com/digital-ECMT/LLM_factuality_evaluation_framework/blob/main/Figures/Figure1.png))
+![alt text](https://github.com/digital-ECMT/LLM_factuality_evaluation_framework/blob/main/Figures/Figure1.png)
 
 ## Evaluation framework:
-![alt text](https://github.com/digital-ECMT/LLM_factuality_evaluation_framework/blob/main/Figures/Figure3.png))
+![alt text](https://github.com/digital-ECMT/LLM_factuality_evaluation_framework/blob/main/Figures/Figure3.png)
 
 
 
